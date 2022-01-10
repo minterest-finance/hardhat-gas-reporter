@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "array-uniq": "1.0.3",
-    "eth-gas-reporter": "git@github.com:minterest-finance/eth-gas-reporter.git",
+    "eth-gas-reporter": "https://github.com/minterest-finance/eth-gas-reporter.git",
     "sha1": "^1.1.1"
   }
 }
